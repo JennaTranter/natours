@@ -43,7 +43,7 @@ body {
 	position: relative;
 
 	clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
-}
+} 
 
 .logo-box {
 	position: absolute;
@@ -124,7 +124,7 @@ body {
 		opacity: 0;
 		transform: translateY(3rem);
 	}
-	
+
 	100% {
 		opacity: 1;
 		transform: translate(0);
